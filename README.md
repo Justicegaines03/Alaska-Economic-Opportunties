@@ -1,6 +1,6 @@
-# Alaska's Economic Opportunities
+# Geo-Verified Alaska Directory
 
-I recently visited Alaska for the first time, and it's seriously God's country. To get more involved in it's affairs, this is a public repository for all my research going into Alaska's economy, which will be used to make a software solution for its residence or tourists. Furthermore, for the sake of sharing ideas with each other, this repo is open source.
+I recently visited Alaska for the first time, and it's seriously God's country. To get more involved in it's affairs, this is a public repository for all my research going into Alaska for a geo-verified Alaska directory, which will focus on it's geologic beauties. Furthermore, for the sake of sharing ideas with each other, this repo is open source.
 
 ---
 
